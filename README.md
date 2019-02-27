@@ -8,7 +8,7 @@ Testing candidate solutions in roughandready.py before commiting these to main.p
 - Imported tube map into a matrix
 - Set-up dictionary for name references
 - Function returning shortest journey in a graph
-- TODO NEXT: Function returning journey given fixed start station
+- TODO NEXT: Function returning shortest journey given fixed start station
 
 
 ## CSV Map Source
